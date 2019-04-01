@@ -72,4 +72,11 @@ switch(func){
         break;
 }
 
-}
+  int Addition(int x, int y){
+        int ans = x + y;
+        return ans;
+    }       
+    int Subtraction(int x, int y){
+        int ans = x - y;
+        return ans;
+    }       }
